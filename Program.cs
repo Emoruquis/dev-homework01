@@ -6,10 +6,10 @@ namespace dev_homework01
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! - My name is: Francisco");
+            Console.WriteLine("Hello World! - My name is: Emma");
 
             //Constantes
-            const string nombre = "Francisco";
+            const string nombre = "Emma";
             //Variables
             int edad = 32;
         
